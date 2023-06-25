@@ -1,3 +1,5 @@
+package abhinav;
+
 import java.util.Scanner;
 
 public class Fibonachi {
