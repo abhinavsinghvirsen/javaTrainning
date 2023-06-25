@@ -3,11 +3,7 @@ import java.util.Scanner;
 public class Fibonachi {
     public static void main(String[] args) {
         
-        System.out.println("Enter the limit") ;
-        System.out.println("hwllo") ;
-
-
-        
+       
         Scanner sc = new Scanner(System.in) ;
 
         int limit = sc.nextInt() ;
