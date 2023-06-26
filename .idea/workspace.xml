@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abhinav/Doubt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Fibonachi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/Fibonachi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecursionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/RecursionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/CallBYValueAndReffrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/CallBYValueAndReffrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/VarArgsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/VarArgsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +48,9 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Doubt">
-    <configuration name="Doubt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.Doubt" />
+  <component name="RunManager" selected="Application.CallBYValueAndReffrence">
+    <configuration name="CallBYValueAndReffrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.CallBYValueAndReffrence" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Doubt" />
+        <item itemvalue="Application.CallBYValueAndReffrence" />
         <item itemvalue="Application.Fibonachi" />
       </list>
     </recent_temporary>

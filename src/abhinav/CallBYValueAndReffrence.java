@@ -1,21 +1,21 @@
 package abhinav;
 
-public class Doubt {
+public class CallBYValueAndReffrence {
 
     int sum;
 
     public static void main(String[] args) {
 
         int a=10;
-        new Doubt().m1(a);
+        new CallBYValueAndReffrence().m1(a);
         System.out.println(a);
 
         String str="abhinav";
-        new Doubt().m2(str);
+        new CallBYValueAndReffrence().m2(str);
         System.out.println(str);
 
 
-        Doubt obj3= new Doubt();
+        CallBYValueAndReffrence obj3= new CallBYValueAndReffrence();
         obj3.m3(obj3);
         System.out.println(obj3.sum);
 
@@ -39,7 +39,7 @@ public class Doubt {
 
     }
 
-    void m3(Doubt obj){
+    void m3(CallBYValueAndReffrence obj){
 
         obj.sum+=100;
 

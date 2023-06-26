@@ -1,2 +1,10 @@
-package abhinav;public class VarArgsExample {
+package abhinav;
+
+public class VarArgsExample {
+
+
+
+
+
+    
 }
