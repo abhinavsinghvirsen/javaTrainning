@@ -1,6 +1,6 @@
 package abhinav;
 
-public class VarArgsExample {
+ class VarArgsExample {
 
 
     public static void main(String... args) {
@@ -12,7 +12,6 @@ public class VarArgsExample {
         ob.sum(3,4);
         ob.area(4);
         ob.area(4,5);
-
         ob.sum("n","c","d","f");
     }
 

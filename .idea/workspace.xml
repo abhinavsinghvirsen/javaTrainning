@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/abhinav/ExampleModifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Doubt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/priyo/sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/VarArgsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/VarArgsExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/abhinav/VarArgsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/VarArgsExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +50,24 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VarArgsExample">
+  <component name="RunManager" selected="Application.ExampleModifier">
     <configuration name="CallBYValueAndReffrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abhinav.CallBYValueAndReffrence" />
       <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleModifier" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.ExampleModifier" />
+      <module name="javaTrainning" />
+      <option name="PROGRAM_PARAMETERS" value="v v v v" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abhinav.*" />
