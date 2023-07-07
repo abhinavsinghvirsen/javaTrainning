@@ -6,9 +6,6 @@ public class Inheritance {
 
 
 
-
-
-
     public static void main(String[] args) {
 
         Suv h= new Suv();
@@ -17,8 +14,6 @@ public class Inheritance {
 
 
     }
-
-
 
 }
 
