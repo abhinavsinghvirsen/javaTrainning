@@ -2,100 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Utility/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/IheritanceWithSupperAndBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/sgdsgsd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/AccessModifier1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/BcaStud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/methodoveriding/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/methodoveriding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/methodoveriding/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/methodoveriding/TesOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/modifier/ChilaA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/modifier/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/modifier/TestScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/modifiersub/ChildB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/modifiersub/TestScopeDiffPac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTrainning/Lab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Inheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Inheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Sedan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Sedan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Suv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTrainning/abhinav/Suv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abhinav/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/AdditionOfMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/AdditionOfMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/CheckPrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/CheckPrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/CheckPrimeNumberBtweenRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/CheckPrimeNumberBtweenRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Fact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Fact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Fibonachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Fibonachi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab103.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab105.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab109.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab111_118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab111_118.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab119_124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab119_124.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab125_130.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab125_130.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab131_137.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab131_137.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab140.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab140.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab142.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab143.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab143.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab144.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab145.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab151.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab154.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab154.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab161_168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab161_168.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab169_173.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab169_173.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab181_184.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab181_184.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab185.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab185.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab187_202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab187_202.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab203_216.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab203_216.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab217_225.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab217_225.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab226_233.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab226_233.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab234_263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab234_263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab266_269.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab266_269.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab270_273.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab270_273.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab286.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab287_292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab287_292.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab293_298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab293_298.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab299_310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab299_310.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab311_321.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab311_321.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab322.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab322.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab323.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab323.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab324.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab324.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab325.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab325.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab326.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab326.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab327.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab327.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab328.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab328.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab329.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab329.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab332.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab332.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab333.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab333.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab334.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab334.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab335.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab335.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab339.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab339.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab340.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab340.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab341.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab341.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab342.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab344.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab345.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab346.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab346.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab347.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab348.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab348.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab349.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab350.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab351.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab351.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab352.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab353.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab353.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab354.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab354.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab355.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab355.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab356.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab356.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab357.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab357.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab358.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab358.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab360.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab360.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab361.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab361.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab362.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab362.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab364.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab364.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab370.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab370.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/Lab62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/Lab62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/priyo/ javalabs/MultiplicationOfMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/priyo/MultiplicationOfMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/CheckPrimeNumberBtweenRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo354.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo355.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo356.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo357.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo358.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo360.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo361.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo362.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo364.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Demo370.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Fact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Fibonachi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hello1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hello2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hello3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hello4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hello5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hello6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Helloo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Helloo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Helloo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Helloo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Helloo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/High.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Hii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/India.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab105.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab106.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab107.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab109.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab111_118.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab119_124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab125_130.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab131_137.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab140.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab142.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab143.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab144.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab145.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab151.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab154.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab160.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab161_168.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab169_173.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab181_184.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab185.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab187_202.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab203_216.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab217_225.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab226_233.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab234_263.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab266_269.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab270_273.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab286.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab287_292.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab293_298.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab299_310.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab311_321.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab322.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab323.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab324.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab325.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab326.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab327.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab328.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab329.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab332.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab333.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab334.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab335.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab338.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab339.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab340.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab341.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab342.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab344.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab345.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab346.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab347.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab348.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab349.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab350.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab351.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab352.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab353.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab354.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab355.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab356.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab357.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab358.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab360.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab361.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab362.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab364.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab370.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Lab62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Low.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/MultiplicationOfMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Odisha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Old.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Puri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Stud.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Student2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Student3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/Student5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/StudentDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/sushant/sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTrainning/sushant/sample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sushant/sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sushant/sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sushant/src/Demo/Lab314.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sushant/src/Demo/Lab314.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,9 +184,9 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sample">
-    <configuration name="CallBYValueAndReffrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.CallBYValueAndReffrence" />
+  <component name="RunManager" selected="Application.TesOver">
+    <configuration name="AccessModifier1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.AccessModifier1" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
@@ -207,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.VarArgsExample" />
+    <configuration name="TesOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.methodoveriding.TesOver" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.*" />
+          <option name="PATTERN" value="abhinav.methodoveriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesOver" />
+        <item itemvalue="Application.AccessModifier1" />
         <item itemvalue="Application.Sample" />
         <item itemvalue="Application.IheritanceWithSupperAndBlock" />
         <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.VarArgsExample" />
-        <item itemvalue="Application.CallBYValueAndReffrence" />
       </list>
     </recent_temporary>
   </component>
