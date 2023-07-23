@@ -10,6 +10,31 @@ public class Super {
         return b1;
     }
 
+   int  m2(){
 
+      return 1;
+
+    }
+
+       public native void dancing();
+
+
+
+     private void  speaching(){
+
+
+    }
+
+
+    protected int  m4(){
+
+        return 2;
+    }
+
+
+    void mshow(){
+
+        System.out.println("super");
+    }
 
 }

@@ -4,13 +4,20 @@ public class TesOver {
 
     public static void main(String[] args) {
 
-      /*  Super obj = new Super();
+     Book obj = new Book();
 
-        obj.m1(3,"");*/
+     obj.publish();//book
+     obj.read();//book
+     Book.read();//book
 
 
-        Super obj1 = new Child();
-        obj1.m1(4,"");
+
+
+     Book obj1 = new PhyBook(); //dynamic
+
+        obj1.publish(); //book phy
+        obj1.read(); //
+        PhyBook.read();
 
 
 
