@@ -25,6 +25,20 @@ interface Human {
 
 public class IndianSuperHero implements SuperHuman,Human{
 
+
+    //upcasting
+    Superclass sobj = new Superclass();
+
+    Sublass subobj = new Sublass();
+
+    Superclass superref=subobj;  //upcasting
+
+
+    Sublass subobjtry =  (Sublass) sobj;//downcasting
+
+
+
+
      final static int adharid = 0;
     public static void main(String[] args) {
 
@@ -52,12 +66,12 @@ public class IndianSuperHero implements SuperHuman,Human{
 
     }
 
-    @Override
+
     public void superpower() {
 
     }
 
-    @Override
+
     public void fly() {
 
     }
@@ -76,4 +90,15 @@ public class IndianSuperHero implements SuperHuman,Human{
     public void eat() {
 
     }
+}
+
+
+class Superclass{
+
+
+}
+
+class Sublass extends Superclass{
+
+
 }
