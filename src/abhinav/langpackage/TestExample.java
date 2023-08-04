@@ -1,20 +1,31 @@
 package abhinav.langpackage;
 
 
+import java.sql.SQLOutput;
+import java.util.Arrays;
 
-public class TestExample {
+public  class TestExample {
     public static void main(String[] args) {
+        B obj = new B();
+        A obx =new A();
 
-       A obj = new B();
-       Object objA = new A();
-       Object objB = new B();
 
-       Object ob[] = new Object[10];
-       ob[0]=objA;
-       ob[1]=new C();
-        ((C)ob[1]).display();
+        display(obj);
+        display(obx);
+
 
     }
+
+    private static void display(Object obj) {
+        Class details = obj.getClass();
+        System.out.println(details.getName());
+        System.out.println(details.getSuperclass());
+        System.out.println(Arrays.stream(details.getDeclaredFields()));
+        System.out.println(Arrays.stream(details.getDeclaredFields()).findFirst());
+
+    }
+
+
 }
 
 class A{
@@ -24,12 +35,7 @@ class A{
 
 class B extends A{
 
-
+double name;
 }
-class C{
 
-    public void display(){
 
-    }
-
-}
