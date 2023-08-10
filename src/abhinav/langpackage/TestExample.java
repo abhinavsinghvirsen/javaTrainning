@@ -1,15 +1,13 @@
 package abhinav.langpackage;
 
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
-import java.util.Objects;
 
 public  class TestExample {
     public static void main(String[] args) {
         B obj = new B();
         B objy =obj;
-        A obx =new A();
+
 
 
         System.out.println(obj.hashCode());
@@ -18,7 +16,7 @@ public  class TestExample {
         System.out.println(obj==obj);
 
         display(obj);
-        display(obx);
+
 
 
     }
@@ -43,7 +41,7 @@ class A{
 
 }
 
-class B extends A{
+class B {
 
 double name;
 
