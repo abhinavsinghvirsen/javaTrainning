@@ -1,4 +1,4 @@
-package abhinav.designPattern.strategy;
+package abhinav.designPattern.behavioral.strategy;
 
 public class Steam implements CookingStrategy{
     @Override

@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abhinav/Wrapper/Boxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/Wrapper/TestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/ClientStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/CookContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/CookingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Solar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Steam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Stew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/systemandruntime/TestSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/observer/Investor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/observer/InvestorObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/observer/StockMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/observer/StockMarketSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/observer/TestObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/observer/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/runtime/RuntimeExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/AdditionOfMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/CheckPrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/ClientStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/strategy/ClientStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/CookContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/strategy/CookContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/CookingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/strategy/CookingStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Solar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/strategy/Solar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Steam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/strategy/Steam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Stew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/designPattern/behavioral/strategy/Stew.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClientStrategy">
+  <component name="RunManager" selected="Application.RuntimeExample">
     <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abhinav.Wrapper.Boxing" />
       <module name="javaTrainning" />
@@ -81,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="ClientStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.strategy.ClientStrategy" />
+      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.behavioral.strategy.ClientStrategy" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.designPattern.strategy.*" />
+          <option name="PATTERN" value="abhinav.designPattern.behavioral.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStringbuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.String.TestStringbuffer" />
+    <configuration name="RuntimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.runtime.RuntimeExample" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.String.*" />
+          <option name="PATTERN" value="abhinav.runtime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestObserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.behavioral.observer.TestObserver" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.designPattern.behavioral.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,26 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.Wrapper.TestWrapper" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.Wrapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeExample" />
+        <item itemvalue="Application.TestObserver" />
         <item itemvalue="Application.ClientStrategy" />
         <item itemvalue="Application.TestSystem" />
         <item itemvalue="Application.Boxing" />
-        <item itemvalue="Application.TestWrapper" />
-        <item itemvalue="Application.TestStringbuffer" />
       </list>
     </recent_temporary>
   </component>
