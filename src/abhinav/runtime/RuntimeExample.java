@@ -7,16 +7,8 @@ public class RuntimeExample {
     public static void main(String[] args) throws IOException {
 
         Runtime rt =Runtime.getRuntime(); //Singleton class
-        String url = "https://www.google.com/search?q=abhinavsinghvirsen";
-        Process p1 =rt.exec("open "+url);
-
-
-
-
-
-
-
-
+        String url = "open "+"https://www.google.com/search?q=abhinavsinghvirsen";
+        Process p1 =rt.exec(url);
         /***
          *memory
          *
