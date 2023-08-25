@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abhinav/String/TestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/Wrapper/Boxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/Wrapper/TestWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/ClientStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/CookContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/CookingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Solar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Steam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/designPattern/strategy/Stew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/systemandruntime/TestSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/AdditionOfMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/CheckPrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +66,33 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestStringbuffer">
+  <component name="RunManager" selected="Application.ClientStrategy">
+    <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.Wrapper.Boxing" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.Wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.strategy.ClientStrategy" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.designPattern.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExampleModifier" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abhinav.ExampleModifier" />
       <module name="javaTrainning" />
@@ -64,58 +100,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abhinav.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.cloning.TestClone" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.cloning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDeepClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.cloning.TestDeepClone" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.cloning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestJvm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.TestJvm" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.String.TestString" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +120,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.systemandruntime.TestSystem" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.systemandruntime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.Wrapper.TestWrapper" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.Wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClientStrategy" />
+        <item itemvalue="Application.TestSystem" />
+        <item itemvalue="Application.Boxing" />
+        <item itemvalue="Application.TestWrapper" />
         <item itemvalue="Application.TestStringbuffer" />
-        <item itemvalue="Application.TestString" />
-        <item itemvalue="Application.TestJvm" />
-        <item itemvalue="Application.TestClone" />
-        <item itemvalue="Application.TestDeepClone" />
       </list>
     </recent_temporary>
   </component>
@@ -167,5 +177,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
