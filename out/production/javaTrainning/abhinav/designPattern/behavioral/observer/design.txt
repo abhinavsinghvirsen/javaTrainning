@@ -1,0 +1,24 @@
++-------------------+       +----------------------+
+|  StockMarket      |       |  InvestorObserver   |
++-------------------+       +----------------------+
+| - observers: List<InvestorObserver> |
+| - stockPrice: double                   |
++-------------------+       +----------------------+
+| + getStockPrice(): double               |
+| + setStockPrice(price: double): void    |
+| + registerObserver(observer: InvestorObserver): void |
+| + removeObserver(observer: InvestorObserver): void   |
+| + notifyObservers(): void              |
++-------------------+       +----------------------+
+
+          ^
+          |
+          |
+          |      +----------------------+
+          +------+  Investor            |
+                 +----------------------+
+                 | - name: String       |
+                 | - stockMarket: StockMarketSubject |
+                 +----------------------+
+                 | + update(price: double): void |
+                 +----------------------+

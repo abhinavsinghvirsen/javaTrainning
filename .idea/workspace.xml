@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abhinav/cloning/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/cloning/TestClone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/cloning/TestDeepClone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/langpackage/EqualExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/langpackage/Hex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/langpackage/TestToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/runtime/MathExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/ javalabs/ javalabs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/ javalabs/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/ javalabs/out/production/ javalabs/ javalabs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaTrainning/ javalabs/out/production/ javalabs/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abhinav/langpackage/TestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/langpackage/TestExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/runtime/RuntimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/runtime/RuntimeExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/abhinav" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RecentsManager">
@@ -52,6 +43,7 @@
       <recent name="abhinav.classcast" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/abhinav" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -64,13 +56,13 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestDeepClone">
-    <configuration name="EqualExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.langpackage.EqualExample" />
+  <component name="RunManager" selected="Application.MathExample">
+    <configuration name="ClientStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.behavioral.strategy.ClientStrategy" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.langpackage.*" />
+          <option name="PATTERN" value="abhinav.designPattern.behavioral.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.langpackage.Hex" />
+    <configuration name="MathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.runtime.MathExample" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.langpackage.*" />
+          <option name="PATTERN" value="abhinav.runtime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.cloning.Reverse" />
+    <configuration name="RuntimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.runtime.RuntimeExample" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.cloning.*" />
+          <option name="PATTERN" value="abhinav.runtime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.cloning.TestClone" />
+    <configuration name="TestObserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.behavioral.observer.TestObserver" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.cloning.*" />
+          <option name="PATTERN" value="abhinav.designPattern.behavioral.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDeepClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.cloning.TestDeepClone" />
+    <configuration name="TestSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.systemandruntime.TestSystem" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.cloning.*" />
+          <option name="PATTERN" value="abhinav.systemandruntime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDeepClone" />
-        <item itemvalue="Application.TestClone" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.EqualExample" />
-        <item itemvalue="Application.Hex" />
+        <item itemvalue="Application.MathExample" />
+        <item itemvalue="Application.RuntimeExample" />
+        <item itemvalue="Application.TestObserver" />
+        <item itemvalue="Application.ClientStrategy" />
+        <item itemvalue="Application.TestSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -175,5 +167,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

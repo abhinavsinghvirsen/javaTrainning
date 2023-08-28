@@ -5,7 +5,7 @@ public class TestClone {
     public static void main(String[] args) throws CloneNotSupportedException {
 
 
-    /*    Book phy= new Book("phy",300);
+       Book phy= new Book("phy",300);
         Student Abhinav = new Student("abhinav",3,50,"HIG",phy);
 
         Student ravi= (Student) Abhinav.clone();
@@ -13,7 +13,7 @@ public class TestClone {
         Abhinav.book1.name="chem";
         System.out.println(Abhinav);
         System.out.println(ravi);
-*/
+
 
     }
 
@@ -55,13 +55,14 @@ class Student implements Cloneable {
             Book cloneofbook = new Book(this.book1.name, this.book1.price);
 
             Student cloneofStudent = new Student(this.name, this.roll, this.mark, this.address, cloneofbook);
+
             return cloneofStudent;
         }else{
-
-
             throw new CloneNotSupportedException();
         }
 
+
+     //   return  super.clone();
 
     }
 
