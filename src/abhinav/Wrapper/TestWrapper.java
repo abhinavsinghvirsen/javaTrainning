@@ -32,7 +32,7 @@ public class TestWrapper {
         Byte objb = new Byte(b1);
         Byte obbb= Byte.valueOf(b1);
         int axy =456;
-        Integer obw = new Integer(axy);
+        Integer obw = new Integer(456);
         Integer t = Integer.valueOf(axy);
 
 //wrapper to primitive
@@ -40,14 +40,9 @@ public class TestWrapper {
         Integer intw=10;
 
         int wv = intw.intValue();
-
         Long lw =30l;
         long lww = lw.longValue();
-
-
         Boolean bw =false;
-
-
         boolean bwp = bw.booleanValue();
 
         Integer mm= 200;
