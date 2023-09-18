@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abhinav/runtime/MathExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/Simple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abhinav/runtime/RuntimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/runtime/RuntimeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/threads/ThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/threads/ThreadExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +56,7 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathExample">
-    <configuration name="ClientStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.behavioral.strategy.ClientStrategy" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.designPattern.behavioral.strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Simple">
     <configuration name="ExampleModifier" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abhinav.ExampleModifier" />
       <module name="javaTrainning" />
@@ -84,12 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.runtime.MathExample" />
+    <configuration name="Exc" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.exceptionHandling.Exc" />
       <module name="javaTrainning" />
+      <option name="PROGRAM_PARAMETERS" value="abhinav kumar 123" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.runtime.*" />
+          <option name="PATTERN" value="abhinav.exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.runtime.RuntimeExample" />
+    <configuration name="ExceptionIndetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.exceptionHandling.ExceptionIndetails" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.runtime.*" />
+          <option name="PATTERN" value="abhinav.exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestObserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.designPattern.behavioral.observer.TestObserver" />
+    <configuration name="FlowException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.exceptionHandling.FlowException" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.designPattern.behavioral.observer.*" />
+          <option name="PATTERN" value="abhinav.exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +111,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.systemandruntime.TestSystem" />
+    <configuration name="Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.threads.Simple" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.systemandruntime.*" />
+          <option name="PATTERN" value="abhinav.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TESTEXCE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.exceptionHandling.TESTEXCE" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.exceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.threads.ThreadExample" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MathExample" />
-        <item itemvalue="Application.RuntimeExample" />
-        <item itemvalue="Application.TestObserver" />
-        <item itemvalue="Application.ClientStrategy" />
-        <item itemvalue="Application.TestSystem" />
+        <item itemvalue="Application.Simple" />
+        <item itemvalue="Application.ThreadExample" />
+        <item itemvalue="Application.TESTEXCE" />
+        <item itemvalue="Application.FlowException" />
+        <item itemvalue="Application.ExceptionIndetails" />
       </list>
     </recent_temporary>
   </component>
@@ -183,5 +197,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java8to17$ExampleExceptionHandling.ic" NAME="ExampleExceptionHandling Coverage Results" MODIFIED="1693716469579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>abhinav.exceptionHandling.*</FILTER>
+    </SUITE>
   </component>
 </project>
