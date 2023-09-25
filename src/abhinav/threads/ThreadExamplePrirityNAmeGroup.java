@@ -17,9 +17,11 @@ public class ThreadExamplePrirityNAmeGroup {
         t3.setPriority(10);
         t1.setPriority(5);
         t2.setPriority(1);
+
+        System.out.println(t1.getState());
         t1.start();
         t2.start();
-
+        System.out.println(t1.getState());
 
 
     }
@@ -31,7 +33,7 @@ class Priyoo implements Runnable{
     @Override
     public void run() {
         System.out.println(Thread.currentThread().getName() +"    "+Thread.currentThread().getThreadGroup().getName() +"  "+
-       Thread.currentThread().getPriority());
+       Thread.currentThread().getState());
     }
 }
 class  Rohits implements Runnable{
@@ -39,6 +41,13 @@ class  Rohits implements Runnable{
 
     @Override
     public void run() {
+        try {
+            System.out.println(Thread.currentThread().getState());
+         Thread.sleep(1000);
+            System.out.println(Thread.currentThread().getState());
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         System.out.println(Thread.currentThread().getName() +"    "+Thread.currentThread().getThreadGroup().getName() +"  "+
                 Thread.currentThread().getPriority());
     }
