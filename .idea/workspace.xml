@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/CaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/HelloTestSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/SimpleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/Case1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/Case2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/Case5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/Case6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/threads/ThreadLOck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +60,48 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CaseTest">
-    <configuration name="CaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.threads.CaseTest" />
+  <component name="RunManager" selected="Application.ThreadLOck">
+    <configuration name="Case1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.threads.Case1" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Case5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.threads.Case5" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Case6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.threads.Case6" />
+      <module name="javaTrainning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.threads.DeadLock" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
@@ -99,47 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.threads.Lab763" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.cloning.Reverse" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.cloning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.threads.SimpleThread" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.threads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.threads.TestClass" />
+    <configuration name="ThreadLOck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.threads.ThreadLOck" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CaseTest" />
-        <item itemvalue="Application.SimpleThread" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.Lab763" />
-        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.ThreadLOck" />
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.Case6" />
+        <item itemvalue="Application.Case5" />
+        <item itemvalue="Application.Case1" />
       </list>
     </recent_temporary>
   </component>
