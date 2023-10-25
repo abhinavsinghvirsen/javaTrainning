@@ -7,18 +7,26 @@ public class SetExample {
 
     public static void main(String[] args) {
 
-        // no order maintain no duplicate
+        //  order maintain no duplicate
 
         HashSet hs = new HashSet();
         hs.add("Z");
-        hs.add("AB");
-        hs.add("cc");
-        hs.add("priyo");
-        hs.add("AB");
+        hs.add("B");
+        hs.add("C");
+        hs.add("N");
+        hs.add("T");
+        hs.add("T");
 
+        System.out.println( "T".hashCode());
         System.out.println(hs);
 
-        hs.forEach(x-> System.out.println(x));
+        Iterator obj=  hs.iterator();
+        while(obj.hasNext()){
+            System.out.println(obj.next());
+
+        }
+
+      /*  hs.forEach(x-> System.out.println(x));
 
         for(Object c:hs){
             System.out.println(c);
@@ -29,7 +37,7 @@ public class SetExample {
         ArrayList obl = new ArrayList(hs);
          for(int i=0;i<obl.size();i++){
              System.out.println(obl.get(i));
-             
+
          }
 
 
@@ -42,7 +50,7 @@ public class SetExample {
         while(obj.hasNext()){
             System.out.println(obj.next());
 
-        }
+        }*/
 
 
 
