@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="" />
+    <list default="true" id="1846b591-25c1-4f9f-b243-d0aee1a6a2d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/abhinav/utils/ComapratorExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/utils/ExamplUltra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/utils/GenericExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/utils/KeyCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/utils/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abhinav/utils/TreemaoExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abhinav/utils/ExampleTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abhinav/utils/ExampleTreeSet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,14 +61,13 @@
       <recent name="manisha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExampleTreeSet">
-    <configuration name="ExampleModifier" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.ExampleModifier" />
+  <component name="RunManager" selected="Application.GenericExamples">
+    <configuration name="ComapratorExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.utils.ComapratorExam" />
       <module name="javaTrainning" />
-      <option name="PROGRAM_PARAMETERS" value="v v v v" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abhinav.*" />
+          <option name="PATTERN" value="abhinav.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +75,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.utils.ExampleTreeSet" />
+    <configuration name="ExamplUltra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.utils.ExamplUltra" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abhinav.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleModifier" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.ExampleModifier" />
+      <module name="javaTrainning" />
+      <option name="PROGRAM_PARAMETERS" value="v v v v" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abhinav.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.utils.LinkedListExample" />
+    <configuration name="GenericExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.utils.GenericExamples" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LitItrExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.utils.LitItrExample" />
+    <configuration name="KeyCollision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.utils.KeyCollision" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
@@ -120,25 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.utils.SetExample" />
+    <configuration name="TreemaoExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abhinav.utils.TreemaoExample" />
       <module name="javaTrainning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abhinav.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadLOck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abhinav.threads.ThreadLOck" />
-      <module name="javaTrainning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abhinav.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExampleTreeSet" />
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.LitItrExample" />
-        <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.ThreadLOck" />
+        <item itemvalue="Application.GenericExamples" />
+        <item itemvalue="Application.ComapratorExam" />
+        <item itemvalue="Application.ExamplUltra" />
+        <item itemvalue="Application.TreemaoExample" />
+        <item itemvalue="Application.KeyCollision" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +199,20 @@
           <url>file://$PROJECT_DIR$/src/abhinav/String/TestStringbuffer.java</url>
           <line>17</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk-17.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java</url>
+          <line>337</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk-17.0.4.jdk/Contents/Home/lib/src.zip!/jdk.hotspot.agent/sun/jvm/hotspot/debugger/Address.java</url>
+          <line>79</line>
+          <properties class="sun.jvm.hotspot.debugger.Address" method="hashCode">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

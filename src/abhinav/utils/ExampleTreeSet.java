@@ -43,7 +43,8 @@ class Student implements  Comparable{
     public int compareTo(Object abc) {
 
         Student obj = (Student) abc;
-        return this.name.compareTo(obj.name);
+        System.out.println(this.roll + " - "+ obj.roll + " = "+ (this.roll- obj.roll));
+        return this.roll-(obj.roll);
 
     }
 
