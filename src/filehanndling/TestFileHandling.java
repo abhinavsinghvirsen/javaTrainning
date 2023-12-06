@@ -1,34 +1,23 @@
 package filehanndling;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 
 public class TestFileHandling {
 
     public static void main(String[] args) throws IOException {
 
-        File  f = new File("/Users/abhinavsingh/Downloads");
-        String []name = f.list();
-        System.out.println("no of file & directory "+ name.length);
+        File f = new File("/Users/abhinavsingh/Downloads/priyo_labs");
+        System.out.println(f.mkdir());
 
-        int fc=0;
-        int dc=0;
-        for(String n:name){
-            File t = new File("/Users/abhinavsingh/Downloads/"+n) ;
-            if (t.isFile()){
-                fc++;
-                System.out.println(fc +" == file name" + t.getName());
+        File leaveapp = new File(f.getCanonicalPath()+"/application-leave.txt");
+        leaveapp.createNewFile();
 
-            }else{
-                dc++;
-                System.out.println(dc +"== directory name" + t.getName());
 
-            }
-        }
-
-        System.out.println( "total number of files"+fc);
-        System.out.println("total number of directory"+dc);
-
+        FileWriter fw = new FileWriter(leaveapp);
+        fw.write("hello sir ji  i want leave");
+        fw.close();
     }
 
 }
