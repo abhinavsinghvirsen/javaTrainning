@@ -1,0 +1,52 @@
+"2023-11-27 15:25:40 - Starting CrudOperationSpringboot2Application using Java 19.0.2 on DESKTOP-3RVPDUB with PID 10008 (C:\Users\User\Documents\GitHub\SpringBoot2CrudPostgrese\CrudOperationSpringboot2\target\classes started by User in C:\Users\User\Documents\GitHub\SpringBoot2CrudPostgrese\CrudOperationSpringboot2)
+""2023-11-27 15:25:40 - No active profile set, falling back to default profiles: default
+""2023-11-27 15:25:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2023-11-27 15:25:42 - Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interfaces.
+""2023-11-27 15:25:42 - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$83036150] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+""2023-11-27 15:25:42 - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+""2023-11-27 15:25:43 - Tomcat initialized with port(s): 8091 (http)
+""2023-11-27 15:25:43 - Starting service [Tomcat]
+""2023-11-27 15:25:43 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+""2023-11-27 15:25:43 - Initializing Spring embedded WebApplicationContext
+""2023-11-27 15:25:43 - Root WebApplicationContext: initialization completed in 2287 ms
+""2023-11-27 15:25:43 - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2023-11-27 15:25:43 - HHH000412: Hibernate ORM core version 5.4.32.Final
+""2023-11-27 15:25:43 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+""2023-11-27 15:25:44 - HikariPool-1 - Starting...
+""2023-11-27 15:25:44 - HikariPool-1 - Start completed.
+""2023-11-27 15:25:44 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+""2023-11-27 15:25:44 - HHH90000014: Found use of deprecated [org.hibernate.id.SequenceGenerator] sequence-based id generator; use org.hibernate.id.enhanced.SequenceStyleGenerator instead.  See Hibernate Domain Model Mapping Guide for details.
+""2023-11-27 15:25:45 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2023-11-27 15:25:45 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2023-11-27 15:25:45 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2023-11-27 15:25:46 - Tomcat started on port(s): 8091 (http) with context path ''
+""2023-11-27 15:25:46 - Started CrudOperationSpringboot2Application in 5.945 seconds (JVM running for 7.706)
+""2023-11-27 15:33:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2023-11-27 15:33:21 - Initializing Servlet 'dispatcherServlet'
+""2023-11-27 15:33:21 - Completed initialization in 1 ms
+""2023-11-27 15:33:21 - Abhinav authenticated user  
+""2023-11-27 15:33:21 - Abhinav authenticated user  localhost:8091
+""2023-11-27 15:33:21 - 8818f086-94cb-47b1-a089-e870c92872ea
+""2023-11-27 15:33:21 - Unknown Exception
+""2023-11-27 15:34:02 - Abhinav authenticated user  
+""2023-11-27 15:34:02 - Abhinav authenticated user  localhost:8091
+""2023-11-27 15:34:02 - 9d055265-33a3-403c-a232-ae7c9bb932b2
+""2023-11-27 15:34:02 - Unknown Exception
+""2023-11-27 15:34:34 - Abhinav authenticated user  
+""2023-11-27 15:34:34 - Abhinav authenticated user  localhost:8091
+""2023-11-27 15:34:34 - ca1897ae-e3b9-43d0-a2b8-4c8f703f86c5
+""2023-11-27 15:34:34 - Unknown Exception
+""2023-11-27 15:34:51 - Abhinav authenticated user  
+""2023-11-27 15:34:51 - Abhinav authenticated user  localhost:8091
+""2023-11-27 15:34:51 - c3793dd9-0b69-43ae-879c-d560944ec899
+""2023-11-27 15:34:51 - Unknown Exception
+""2023-11-27 15:35:01 - Abhinav authenticated user  
+""2023-11-27 15:35:01 - Abhinav authenticated user  localhost:8091
+""2023-11-27 15:35:01 - inside save apiUser{id=1, username='abc@gmail.com', email='xcv@g.com', phoneNo='91788888871'}
+""2023-11-27 15:35:01 - after save
+""2023-11-27 15:35:01 - inside service save api
+""2023-11-27 15:52:49 - Abhinav authenticated user  
+""2023-11-27 15:52:49 - Abhinav authenticated user  localhost:8091
+""2023-11-27 15:52:49 - 773a32f6-c101-49bd-96c7-cfbe8c6b2292
+""2023-11-27 15:52:49 - Unknown Exception
+"
